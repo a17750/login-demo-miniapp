@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<scroll-view class="scrollarea" scroll-y type="list">
+  <button bind:tap="login">登陆测试</button>
+</scroll-view>
